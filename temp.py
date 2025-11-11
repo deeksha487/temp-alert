@@ -11,7 +11,7 @@ def temperature_alert(temp):
 
 # Check if user provided an argument
 if len(sys.argv) != 2:
-    print("Usage: python temp_alert.py <temperature_in_Celsius>")
+    print("Usage: python temp.py <temperature_in_Celsius>")
     sys.exit(1)
 
 try:
