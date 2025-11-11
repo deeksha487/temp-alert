@@ -1,5 +1,4 @@
 import sys
-
 # check if argument is given
 if len(sys.argv) < 2:
     print("Please give temperature as argument.")
